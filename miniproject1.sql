@@ -16,7 +16,7 @@
 
 --CREATE TABLE reviewers (
 --	video_id CHARVAR(100) NOT NULL,
---	username CHARVAR(25) NOT NULL,
+--	rname CHARVAR(25) NOT NULL,
 --	rating NUMERIC(1),
 --	review CHARVAR(255) NOT NULL
 --);
